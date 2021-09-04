@@ -1,0 +1,123 @@
+
+
+h1 {
+    text-align: center;
+}
+ul {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style: none;
+    li {
+      width: 300px;
+        padding: 10px 0;
+        text-align: center;
+        p {
+          span[title="Grass"] {
+              margin: 5px;
+              padding: 4px;
+              color: #fff;
+              border-radius: 5px;
+              background-color: rgb(70, 228, 118);
+          }
+          span[title="Poison"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(147, 95, 238);
+          }
+          span[title="Fire"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(246, 2, 1);
+          }
+          span[title="Flying"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(157, 161, 225);
+          }
+          span[title="Bug"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(100, 255, 0);
+          }
+          span[title="Normal"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(206, 205, 198);
+          }
+          span[title="Electric"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(236, 186, 19);
+          }
+          span[title="Ground"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(215, 183, 100);
+          }
+          span[title="Fairy"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(233, 159, 239);
+          }
+          span[title="Water"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(59, 158, 236);
+          }
+          span[title="Fighting"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(136, 67, 32);
+          }
+          span[title="Psychic"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(231, 73, 126);
+          }
+          span[title="Rock"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(194, 171, 106);
+          }
+          span[title="Ice"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(127, 213, 238);
+          }
+          span[title="Ghost"] {
+            margin: 5px;
+            padding: 4px;
+            color: #fff;
+            border-radius: 5px;
+            background-color: rgb(111, 108, 177);
+          }
+        }
+    }
+}
